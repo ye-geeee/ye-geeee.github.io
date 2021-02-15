@@ -4,7 +4,7 @@ tagline:             'ye-geeee'
 description:         '<a href="https://github.com/ye-geeee" target="_blank">Ye-Geeee</a><br/>Wi-Fi Developer at @Samsung Electronics.'
 url:                 https://ye-geeee.github.io
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
