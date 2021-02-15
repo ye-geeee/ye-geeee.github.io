@@ -4,7 +4,7 @@ title: Introducing PlantUML
 ---
 
 **Wikipedia**
-[PlantUML](https://plantuml.com/ko/)은 사용자가 플레인 텍스트 언어로부터 [UML](https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%96%B8%EC%96%B4) 다이어그램을 만들 수 있게 하는 오픈 소스 도구이다. PlantUML의 언어는 [도메인 특화 언어](https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%ED%8A%B9%ED%99%94_%EC%96%B8%EC%96%B4)의 한 예이다. [Graphviz](https://ko.wikipedia.org/wiki/Graphviz) 소프트웨어를 사용하여 다이어그램을 배치시킨다.
+[PlantUML](https://plantuml.com/ko/)은 사용자가 플레인 텍스트 언어로부터 [UML](https://ko.wikipedia.org/wiki/%ED%86%B5%ED%95%A9_%EB%AA%A8%EB%8D%B8%EB%A7%81_%EC%96%B8%EC%96%B4) 다이어그램을 만들 수 있게 하는 오픈 소스 도구이다. PlantUML의 언어는 [도메인 특화 언어](https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%ED%8A%B9%ED%99%94_%EC%96%B8%EC%96%B4)의 한 예이다. [Graphviz](https://ko.wikipedia.org/wiki/Graphviz) 소프트웨어를 사용하여 다이어그램을 배치한다.  
 
 ## PlantUML Page 탐구
 
@@ -12,7 +12,7 @@ PlantUML을 그냥 VSCode Extension으로 다운받아 사용해보려고 했는
 
 ![PlantUML VSCode Readme](/assets/img/21-02-17_1.png)
 
-PlantUML은 [Document Page](https://plantuml.com/ko/)가 따로 있어서 한 번 들어가보았다. 생각보다 더 다양한 정보가 많은 사이트였는데, 한국어로도 지원을 해줘서 너무 기뻤다. 슬쩍 Sequence Diagram을 그리려고 PlantUML을 알아봤다가 생각보다 더 도움이 될 것 같아서 오늘 하루는 이 소프트웨어를 둘러보기로 하였다.  
+PlantUML은 [Document Page](https://plantuml.com/ko/)가 따로 있어서 한 번 들어가 보았다. 생각보다 더 다양한 정보가 많은 사이트였는데, 한국어로도 지원을 해줘서 너무 기뻤다. 슬쩍 Sequence Diagram을 그리려고 PlantUML을 알아봤다가 생각보다 더 도움이 될 것 같아서 오늘 하루는 이 소프트웨어를 둘러보기로 하였다.  
 
 우선, 페이지 이름이 믿음직스럽다. 마음에 든다.  
 
@@ -28,7 +28,7 @@ PlantUML은 기본적으로 jar 파일이고, GraphViz라는 소프트웨어와 
 
 ![PlantUML Online](/assets/img/21-02-17_4.png)
 
-PlantUML이 적용되는 곳이 어디 있는지 확인을 해보았다.([https://plantuml.com/ko/running](https://plantuml.com/ko/running)) 이미 Github, Gitlab 등 많은 Wiki에 적용하는 방법이 소개되어 있고, 웬만한 Editor에 Plugin이 모두 있다. 자기가 주로 사용하는 Editor에서 plugin을 설치하여 작성하면 될 것 같다.  
+PlantUML이 적용되는 곳이 어디 있는지 확인을 해보았다. ([https://plantuml.com/ko/running](https://plantuml.com/ko/running)) 이미 Github, Gitlab 등 많은 Wiki에 적용하는 방법이 소개되어 있고, 웬만한 Editor에 Plugin이 모두 있다. 자기가 주로 사용하는 Editor에서 plugin을 설치하여 작성하면 될 것 같다.  
 
 ![PlantUML Running](/assets/img/21-02-17_5.png)
 
@@ -40,4 +40,4 @@ IntelliJ에서 Plugin으로 PlantUML을 설치한다. 아래와 같이 세 항�
 
 ### 참고 링크
 
-[https://plantuml.com/ko/](https://plantuml.com/ko/)
+[https://plantuml.com/ko/](https://plantuml.com/ko/)  
