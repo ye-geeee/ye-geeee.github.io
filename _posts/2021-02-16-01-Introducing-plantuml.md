@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Introducing PlantUML
+date:   2021-02-16 07:34:25
+lastmod : 2021-02-17 03:51:33
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 **Wikipedia**
