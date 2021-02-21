@@ -33,7 +33,7 @@ usecase UseCase3 as UC3
 @enduml
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20fc3c1e-7047-44af-a855-054d2d1596bf/01_UseCaseDiagram.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20fc3c1e-7047-44af-a855-054d2d1596bf/01_UseCaseDiagram.png)
+![01_UseCase](/assets/img/21-02-21/01_UseCase.png)
 
 Use Case를 작성할 때에 들어갈 내용이 많을 경우, `--`, `==`, `..`  선을 통해 추가로 많은 description을 작성할 수 있다.
 
@@ -53,6 +53,8 @@ This allows large description."
 @enduml
 ```
 
+![02_UseCaseDescription](/assets/img/21-02-21/02_UseCaseDescription.png)
+
 ## Actor
 
 UseCase다이어그램에서 Actor는 구현 대상이 아니라 시스템과 상호작용하는 외부 환경이라고 생각하면 된다. 
@@ -70,11 +72,11 @@ actor :Actor4: as AT4
 @enduml
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90af140c-1000-4e27-8bef-90400b940c9b/02_UseCaseActor.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90af140c-1000-4e27-8bef-90400b940c9b/02_UseCaseActor.png)
+![03_UseCaseActor](/assets/img/21-02-21/03_UseCaseActor.png)
 
 PlantUML은 Actor의 style을 변경할 수 있도록 지원해준다. style은 아래 코드와 같이 awesome과 Hollow등을 지원하니 참고하자. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a31fb390-1d27-4344-9e39-7ba2565ce8ac/03_UseCaseActorAwesome.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a31fb390-1d27-4344-9e39-7ba2565ce8ac/03_UseCaseActorAwesome.png)
+![04_UseCaseActorAwesome](/assets/img/21-02-21/04_UseCaseActorAwesome.png)
 
 ### 참고 링크
 
