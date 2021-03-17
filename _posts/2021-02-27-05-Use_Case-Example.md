@@ -47,7 +47,7 @@ UC5 --|> UC3
 
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c3f0b55-ebc9-47ec-8cfa-edb07407ad20/01_Authentication.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c3f0b55-ebc9-47ec-8cfa-edb07407ad20/01_Authentication.png)
+![authentication](/assets/img/21-02-27/01_Authentication.png)
 
 ## Use Case Description
 
